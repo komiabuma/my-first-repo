@@ -1,0 +1,17 @@
+# Environment variables
+.env
+*.env.local
+
+#Temporary files
+*.tmp
+*.temp
+*.swp
+
+#Log files
+*.log
+logs/
+
+# BUild outputs
+build/
+dist
+&.exe
