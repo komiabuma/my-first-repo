@@ -1,1 +1,2 @@
  # Git practice Repository
+Learning Git commands step by step
